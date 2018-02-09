@@ -1,12 +1,12 @@
 Login Phase
 -----------------
-create bittrex library
+create bittrex library (+)
 
-login via RESTful API
+login via RESTful API (+)
 
-gather current price data based on specific(?) markets
+gather current price data based on specific(?) markets (+)
 
-gather historical price data based on specific(?) markets
+gather historical price data based on specific(?) markets (+)
 
 
 Determine Trade
@@ -22,7 +22,7 @@ Pay attention to the 'overall market' strength
 
 Buy/Sell Orders
 -----------------
-activate a buy/sell order
+activate a buy/sell order (+)
 
 remove buy/sell order if not fulfilled within 10 seconds
 
@@ -31,7 +31,7 @@ adjust 'purchased' amount depending on fulfilled Orders
 
 Stop Loss / Trailing Stop
 -----------------
-sell (if) xx% is lost on a sale
+sell (if) xx% is lost on a sale (+)
 
 determine when the 'right' time to sell is
  - if red, wait for xx% turn
